@@ -26,7 +26,7 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 
 
 
-•	December average temperature for the same period was 71.04 (F) degreed
+•	December average temperature for the same period was 71.04 (F) degrees
 
 ![]( https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/december_summary.PNG)
 
