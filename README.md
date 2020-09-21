@@ -33,7 +33,7 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 
 
 
-* we can also see frequency of the occuring tempeartures from the graph below, which shows us that out of 1700 days of the record we have, less than 100 was recorded at below 70F.
+* We can also see frequency of the occuring tempeartures from the graph below, which shows us that out of 1700 days of record we have, about 100 days was recorded at below 70F.
 
 
 ![](https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/jun_temp_occurence.png)
@@ -45,8 +45,15 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 
 
 
-* Dec
-![](https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/jun_temp_occurence.png)
+* December temperature occurence 
+
+![](https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/dec_temp_occurence.png)
+
+
+* December temperature trend shows that 2014 was the coldest year.
+
+
+![](https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/dec_temp_trend.png)
 
 
 
