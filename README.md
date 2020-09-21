@@ -12,9 +12,9 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 
 •	Using ***extract*** function, we were able to parcel out the data for June and December
 
-'december_tobs = session.query(Measurement.date, Measurement.tobs).filter(extract('month', Measurement.date) == 12).all()’
-•	We then looked at the key metrics using .describe() method
-‘df_jun.describe()'
+'december_tobs = session.query(Measurement.date, Measurement.tobs).filter(extract('month', Measurement.date) == 12).all()'
+
+•	We then looked at the key metrics using .describe() method "df_jun.describe()"
 
 •	Utilize visual tools to show trends
 
