@@ -27,13 +27,15 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 
 ## Results
 
+### *June*
+
 •	Between 2010 and 2017, average June temperature was at 75F degrees with min temperature 64F and max 85F.
 
 ![]( https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/june_summary.PNG)
 
 
 
-* We can also see frequency of the occuring tempeartures from the graph below, which shows us that out of 1700 days of record we have, about 100 days was recorded at below 70F.
+* We can also see frequency of the occuring tempeartures from the graph below, which shows us that out of 1700 days of record we have, less than 200 records (11%) was recorded at below 70F.
 
 
 ![](https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/jun_temp_occurence.png)
@@ -43,6 +45,8 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 
 ![](https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/jun_temp_trend.png)
 
+
+### *December*
 
 
 •	December average temperature for the same period was 71F degrees with minimum 56F and max 83F.
@@ -65,7 +69,7 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 
 ## Summary
 
-Based on the available data for 2010-2017, we see that Hawaii’s temperature was quite “steady” all year -round. With June avg of 75F and 71F in December, ice cream busines seems to be a good investment. Of course, our data does not account for any force-major situations (like covid-19!) so this is just a high-level assumptions. If we look at June vs December temperatures, we see that Oahu is a wonderful place to invest in business
+Based on the available data for 2010-2017, we see that Hawaii’s temperature was quite “steady” all year -round. With June avg of 75F and 71F in December, ice cream busines seems to be a good investment. Of course, our data does not account for any force-major situations (like covid-19!) so this is just a high-level assumptions. If we look at June vs December temperatures, we see that Oahu is a wonderful place to invest in business.
 
 ![](https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/jun_dec_temp_kdeplot.png)
 
