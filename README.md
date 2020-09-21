@@ -39,6 +39,12 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 ![](https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/jun_temp_occurence.png)
 
 
+* June temepratures trend shows that 2015 was the coldest year.
+
+![](https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/jun_temp_trend.png)
+
+
+
 •	December average temperature for the same period was 71F degrees with minimum 56F and max 83F.
 
 ![]( https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/december_summary.PNG)
