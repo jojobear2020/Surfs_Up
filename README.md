@@ -5,7 +5,7 @@
 
 ## Analysis Purpose
 
-In order to determine if the surf and ice cream shop business in Oahu, Hawaii is sustainable year-round, we were tasked to analyze temperatures for the months of June and December.
+In order to determine if the surf and ice cream shop business in Oahu, Hawaii is sustainable year-round, we were tasked to analyze temperatures for the months of June and December (beginning of summer and winter).
 
 
 
