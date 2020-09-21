@@ -8,6 +8,7 @@ Weather Data Analysis (Hawaii)
 In order to determine if the surf and ice cream shop business in Oahu, Hawaii is sustainable year-round, we were tasked to analyze temperatures for the months of June and December.
 
 
+
 ## Approach
 
 •	Using ***extract*** function, we were able to parcel out the data for June and December
@@ -23,6 +24,7 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 •	Utilize visual tools to show trends
 
 
+
 ## Results
 
 •	Between 2010 and 2017, average June temperature was at 75F degrees
@@ -35,6 +37,8 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 •	December average temperature for the same period was 71F degrees
 
 ![]( https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/december_summary.PNG)
+
+
 
 ## Summary
 
