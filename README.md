@@ -9,22 +9,23 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 
 
 
+-----
 ## Approach
 
-•	Using ***extract*** function, we were able to parcel out the data for June and December
+•	Using ***extract*** function, we were able to parcel out the data for June and December.
 
 `june_tobs = session.query(Measurement.date, Measurement.tobs).filter(extract('month', Measurement.date) == 6).all()`
 
 `december_tobs = session.query(Measurement.date, Measurement.tobs).filter(extract('month', Measurement.date) == 12).all()`
 
-•	We then looked at the key metrics using .describe() method 
+•	We then looked at the key metrics using .describe() method.
 
 `df_jun.describe()`
 
-•	Utilize visual tools to show trends
+•	We also utilized visual tools to see trends.
 
 
-
+------
 ## Results
 
 ### *June*
@@ -66,7 +67,7 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 ![](https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/dec_temp_trend.png)
 
 
-
+-----
 ## Summary
 
 Based on the available data for 2010-2017, we see that Hawaii’s temperature was quite “steady” all year -round. With June avg of 75F and 71F in December, ice cream busines seems to be a good investment. Of course, our data does not account for any force-major situations (like covid-19!) so this is just a high-level assumptions. If we look at June vs December temperatures, we see that Oahu is a wonderful place to invest in business.
