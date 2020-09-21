@@ -1,7 +1,7 @@
 
 # Surfs_Up
 
-Weather Data Analysis (Hawaii)
+# ALOHA! 
 
 ## Analysis Purpose
 
@@ -55,7 +55,7 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 
 
 
-* December temperature occurence 
+* December temperature occurence chart shows that December temperatures tend to be in high 60s - mid 70s.
 
 ![](https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/dec_temp_occurence.png)
 
@@ -73,4 +73,4 @@ Based on the available data for 2010-2017, we see that Hawaii’s temperature wa
 
 ![](https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/jun_dec_temp_kdeplot.png)
 
-# ALOHA! 
+
