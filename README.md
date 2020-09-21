@@ -27,14 +27,17 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 
 ## Results
 
-•	Between 2010 and 2017, average June temperature was at 75F degrees
+•	Between 2010 and 2017, average June temperature was at 75F degrees with min temperature 64F and max 85F.
 
 ![]( https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/june_summary.PNG)
 
 
 
+* we can also see frequency of the occuring tempeartures from the graph below, which shows us that out of 1700 days of the record we have, less than 100 was recorded at below 70F.
+![](https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/jun_temp_occurence.png)
 
-•	December average temperature for the same period was 71F degrees
+
+•	December average temperature for the same period was 71F degrees with minimum 56F and max 83F.
 
 ![]( https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/december_summary.PNG)
 
