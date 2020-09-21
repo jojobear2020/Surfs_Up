@@ -45,6 +45,11 @@ In order to determine if the surf and ice cream shop business in Oahu, Hawaii is
 
 
 
+* Dec
+![](https://github.com/jojobear2020/Surfs_Up/blob/master/analysis/jun_temp_occurence.png)
+
+
+
 ## Summary
 
 Based on the available data for 2010-2017, we see that Hawaii’s temperature was quite “steady” all year -round. With June avg of 75F and 71F in December, ice cream busines seems to be a good investment. Of course, our data does not account for any force-major situations (like covid-19!) so this is just a high-level assumptions. If we look at June vs December temperatures, we see that Oahu is a wonderful place to invest in business
